@@ -49,19 +49,15 @@ As with any NLP, the challenge is to decode abbreviations or potential spelling 
 |Project 3.2  |Pre-processing, modelling and analysis, method 1 SpaCy(pre-processing), NaiveBayes and LogisticRegression (modelling)|
 |Project 3.3  | Pre-processing, modelling and analysis, method 2 TFDIF vectoriser(pre-processing), NaiveBayes and   LogisticRegression (modelling)|
 |Project 3.4  | Pre-processing, modelling and analysis, method 3 TFDIF vectoriser(pre-processing), NaiveBayes and   RandomForest (modelling)|
+|Project 3.5  | Pre-processing, modelling and analysis, method 4 feature engineering, TFIDF vectoriser, NavieBayes and Adaboost(modelling)|
 
    ### 3. Presentation slides
-   Short presentation on the topic (here)
+   Short presentation will be uploaded once the projected is submitted (here)
       
 References:<br>
 https://www.reddit.com/r/kroger/ <br>
 https://www.reddit.com/r/publix/ <br>
 https://www.youtube.com/watch?v=5Y3ZE26Ciuk
-
-
-```python
-
-```
 
 
 ```python
