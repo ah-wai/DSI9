@@ -52,7 +52,7 @@ As with any NLP, the challenge is to decode abbreviations or potential spelling 
 |Project 3.5  | Pre-processing, modelling and analysis, method 4 feature engineering, TFIDF vectoriser, NavieBayes and Adaboost(modelling)|
 
    ### 3. Presentation slides
-   Short presentation will be uploaded once the projected is submitted (here)
+   Short presentation will be uploaded once the projected is submitted [here](https://github.com/ah-wai/DSI9/blob/master/project_3/Project%203%20-%20Reddit.pdf)
       
 References:<br>
 https://www.reddit.com/r/kroger/ <br>
