@@ -20,7 +20,7 @@ Using ACT and SAT dataset for 2017 and 2018 aggregated across 51 states, we will
 The dataset is restricted to only aggregated data per state, hence we are only comparing averages across different states in terms of popularity and scores. More granular data is required to make better recommendations
 ​
 ## Materials:
-### 1.Code - starter-code.ipynb
+### 1. Code - starter-code.ipynb
 The main source code where all the analyse happens.
 ### 2. Data - all csv files related to project are included
 Contains individual SAT and ACT by year (2017, 2018), a combined SAT/ACT by year (2017,2018) and final dataset
